@@ -4,3 +4,8 @@
 .chart {
   height: 500px;
 }
+
+
+.circle {
+	cursor: default;
+}
